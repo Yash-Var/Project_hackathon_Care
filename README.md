@@ -93,12 +93,8 @@ It will be copied automatically.
  
 ## Team :
 
-- [Manvi Jain](https://github.com/ManviJain24)
-- [Smita Tripathi](https://github.com/SmitaTripathi)
 - [Yash Varshney](https://github.com/Yash-Var)
-
-
-
+- [Prashant Rai](https://github.com/)
 
 
 
